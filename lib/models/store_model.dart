@@ -1,0 +1,1 @@
+const apiUrl = "https://raw.githubusercontent.com/leboncoin/paperclip/master/listing.json";
