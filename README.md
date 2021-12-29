@@ -1,6 +1,6 @@
 # mystore
 
-A new Flutter application.
+A new Flutter application. Using MVVM model
 
 ## Getting Started
 
